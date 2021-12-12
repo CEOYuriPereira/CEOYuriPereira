@@ -29,6 +29,7 @@
     <h3> ⨳Marca de carros que eu amo 🤩</h3><br> 
       <img src="https://img.shields.io/badge/nissan-%23C3002F.svg?&style=for-the-badge&logo=nissan&logoColor=white" />
       <img src="https://img.shields.io/badge/mazda-%23101010.svg?&style=for-the-badge&logo=mazda&logoColor=white" />
+      <img src="https://img.shields.io/badge/subaru-%23013C74.svg?&style=for-the-badge&logo=subaru&logoColor=white" />
       <img src="https://img.shields.io/badge/bmw-%230066B1.svg?&style=for-the-badge&logo=bmw&logoColor=white" />
       <img src="https://img.shields.io/badge/mercedes-%23242424.svg?&style=for-the-badge&logo=mercedes&logoColor=white" />
       <img src="https://img.shields.io/badge/tesla-%23CC0000.svg?&style=for-the-badge&logo=tesla&logoColor=white" />
